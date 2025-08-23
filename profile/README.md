@@ -59,8 +59,8 @@ Karen is an experiment in **anonymous complaint systems** backed by the **\$KRN 
 
 ## Active Projects
 
-* [**krn**](https://github.com/KitBaroness/krn) → Main complaint board (Cloudflare Pages + D1).
-* [**krnsui**](https://github.com/KitBaroness/krnsui) → Worker scaffolding (legacy/experimental).
+* [**krn**](https://github.com/KRNSUI/krn) → Main complaint board (Cloudflare Pages + D1).
+* [**krnsui**](https://github.com/KRNSUI/krnsui)) → Worker scaffolding (legacy/experimental).
 
 ---
 
