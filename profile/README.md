@@ -22,6 +22,16 @@ Drop your complaints anonymously. Immutable, transparent, and token-backed.
 
 > _“Complain Loudly. Anonymously. On-chain.”_
 
+<p align="center">
+  <!-- Live-ish market badges (server-rendered via shields.io) -->
+  <a href="https://dexscreener.com/search?q=0x278c12e3bcc279248ea3e316ca837244c3941399f2bf4598638f4a8be35c09aa%3A%3Akrn%3A%3AKRN">
+    <img alt="KRN Price (USD)" 
+         src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.dexscreener.com%2Flatest%2Fdex%2Ftokens%2F0x278c12e3bcc279248ea3e316ca837244c3941399f2bf4598638f4a8be35c09aa%253A%253Akrn%253A%253AKRN&query=%24.pairs.0.priceUsd&label=KRN%20price&suffix=%20USD&color=informational">
+  </a>
+  <a href="https://dexscreener.com/search?q=0x278c12e3bcc279248ea3e316ca837244c3941399f2bf4598638f4a8be35c09aa%3A%3Akrn%3A%3AKRN">
+    <img alt="KRN 24h Change" 
+         src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.dexscreener.com%2Flatest%2Fdex%2Ftokens%2F0x278c12e3bcc279248ea3e316ca837244c3941399f2bf4598638f4a8be35c09aa%253A%253Akrn%253A%253AKRN&query=%24.pairs.0.priceChange.h24&label=24h&suffix=%25&color=success">
+  </a>
 ---
 
 ## 🛠️ Tech Stack
