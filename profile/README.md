@@ -1,3 +1,48 @@
+<p align="center">
+  <img src="https://pbs.twimg.com/community_banner_img/1959006942145519616/47kDXOz5?format=jpg&name=small" alt="KAREN Banner" />
+</p>
+
+<h1 align="center">🪙 Karen ($KRN)</h1>
+<p align="center">
+  Anonymous Complaints • On-Chain • Powered by Sui Blockchain
+</p>
+
+---
+
+![Sui](https://img.shields.io/badge/Blockchain-Sui-blue?logo=sui)
+![Cloudflare](https://img.shields.io/badge/Infra-Cloudflare-orange?logo=cloudflare)
+![Database](https://img.shields.io/badge/Database-D1%20(SQL)-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+---
+
+## 🚀 Vision
+Karen ($KRN) is the **on-chain complaint system** for the modern age.  
+Drop your complaints anonymously. Immutable, transparent, and token-backed.  
+
+> _“Complain Loudly. Anonymously. On-chain.”_
+
+---
+
+## 🛠️ Tech Stack
+| Blockchain | Frontend | Backend | Database | Infra |
+|------------|----------|---------|----------|-------|
+| [Sui](https://sui.io) | Cloudflare Pages | Cloudflare Workers | D1 (SQLite) | Cloudflare Network |
+
+---
+
+## 📜 Token Details
+<details>
+  <summary>Click to expand</summary>
+
+- **Token:** $KRN  
+- **Chain:** [Sui](https://sui.io)  
+- **Type:** Utility & Governance  
+- **Explorer:** _(link coming soon)_  
+
+</details>
+
+---
 # Karen (\$KRN on Sui)
 
 Karen is an experiment in **anonymous complaint systems** backed by the **\$KRN token on the Sui blockchain**.
