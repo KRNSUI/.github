@@ -22,6 +22,17 @@ Drop your complaints anonymously. Immutable, transparent, and token-backed.
 
 > _“Complain Loudly. Anonymously. On-chain.”_
 
+## 🎉 What Makes KRN Special
+
+KRN isn't just another complaint platform—it's a **revolutionary economic model** that:
+
+- **Rewards Quality** — Escalating costs prevent spam
+- **Incentivizes Moderation** — High costs for removing others' content
+- **Creates Scarcity** — Limited star positions increase value
+- **Builds Community** — Economic alignment between users and platform
+
+**Join the revolution. Voice your complaints. Earn your stars. Build the future with KRN.**
+
 ---
 
 <p align="center">
